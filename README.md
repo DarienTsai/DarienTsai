@@ -12,47 +12,47 @@
 
 ### I usually work with:
 
-<img align="left" alt="Visual Studio Code" width="25px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+[<img align="left" alt="Visual Studio Code" width="25px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
-<img align="left" alt="NodeJS" width="25px" src="https://simpleicons.org/icons/node-dot-js.svg" />
+[<img align="left" alt="NodeJS" width="25px" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
 
-<img align="left" alt="JavaScript" width="25px" src="https://simpleicons.org/icons/javascript.svg" />
+[<img align="left" alt="JavaScript" width="25px" src="https://simpleicons.org/icons/javascript.svg" />][github]
 
-<img align="left" alt="React" width="25px" src="https://simpleicons.org/icons/react.svg" />
+[<img align="left" alt="React" width="25px" src="https://simpleicons.org/icons/react.svg" />][github]
 
-<img align="left" alt="Redux" width="25px" src="https://simpleicons.org/icons/redux.svg" />
+[<img align="left" alt="Redux" width="25px" src="https://simpleicons.org/icons/redux.svg" />][github]
 
-<img align="left" alt="Sass" width="25px" src="https://simpleicons.org/icons/sass.svg" />
+[<img align="left" alt="Sass" width="25px" src="https://simpleicons.org/icons/sass.svg" />][github]
 
-<img align="left" alt="HTML" width="25px" src="https://simpleicons.org/icons/html5.svg" />
+[<img align="left" alt="HTML" width="25px" src="https://simpleicons.org/icons/html5.svg" />][github]
 
-<img align="left" alt="CSS" width="25px" src="https://simpleicons.org/icons/css3.svg" />
+[<img align="left" alt="CSS" width="25px" src="https://simpleicons.org/icons/css3.svg" />][github]
 
-<img align="left" alt="Git" width="25px" src="https://simpleicons.org/icons/git.svg" />
+[<img align="left" alt="Git" width="25px" src="https://simpleicons.org/icons/git.svg" />][github]
 
-<img align="left" alt="zoom" width="25px" title="lol" src="https://simpleicons.org/icons/zoom.svg" />
+[<img align="left" alt="zoom" width="25px" title="lol" src="https://simpleicons.org/icons/zoom.svg" />][github]
 
 <br><br>
 
 ### I've done things with:
 
-<img align="left" alt="python" width="25px" src="https://simpleicons.org/icons/python.svg" />
+[<img align="left" alt="python" width="25px" src="https://simpleicons.org/icons/python.svg" />][github]
 
-<img align="left" alt="C++" width="25px" src="https://simpleicons.org/icons/cplusplus.svg" />
+[<img align="left" alt="C++" width="25px" src="https://simpleicons.org/icons/cplusplus.svg" />][github]
 
-<img align="left" alt="Java" width="25px" src="https://simpleicons.org/icons/java.svg" />
+[<img align="left" alt="Java" width="25px" src="https://simpleicons.org/icons/java.svg" />][github]
 
-<img align="left" alt="R" width="25px" src="https://simpleicons.org/icons/r.svg" />
+[<img align="left" alt="R" width="25px" src="https://simpleicons.org/icons/r.svg" />][github]
 
-<img align="left" alt="Figma" width="25px" src="https://simpleicons.org/icons/figma.svg" />
+[<img align="left" alt="Figma" width="25px" src="https://simpleicons.org/icons/figma.svg" />][github]
 
-<img align="left" alt="Photoshop" width="25px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+[<img align="left" alt="Photoshop" width="25px" src="https://simpleicons.org/icons/adobephotoshop.svg" />][github]
 
-<img align="left" alt="Illustrator" width="25px" src="https://simpleicons.org/icons/adobeillustrator.svg" />
+[<img align="left" alt="Illustrator" width="25px" src="https://simpleicons.org/icons/adobeillustrator.svg" />][github]
 
-<img align="left" alt="After Effects" width="25px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />
+[<img align="left" alt="After Effects" width="25px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />][github]
 
-<img align="left" alt="Terminal" title="Terminal, not shell" width="25px" src="https://simpleicons.org/icons/powershell.svg" />
+[<img align="left" alt="Terminal" title="Terminal, not shell" width="25px" src="https://simpleicons.org/icons/powershell.svg" />][github]
 
 <br><br>
 
