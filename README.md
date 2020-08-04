@@ -1,6 +1,7 @@
 ### Hi, I'm Darien 👌
 
-## 💻 CS Undergrad at UCSD
+## 💻 CS Undergrad at UCSD - Aspiring Full Stack Dev
+---
 
 ### About:
 
@@ -29,6 +30,8 @@
 
 <img align="left" alt="Git" width="25px" src="https://simpleicons.org/icons/git.svg" />
 
+<img align="left" alt="zoom" width="25px" title="lol" src="https://simpleicons.org/icons/zoom.svg" />
+
 <br><br>
 
 ### I've done things with:
@@ -48,6 +51,8 @@
 <img align="left" alt="Illustrator" width="25px" src="https://simpleicons.org/icons/adobeillustrator.svg" />
 
 <img align="left" alt="After Effects" width="25px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />
+
+<img align="left" alt="Terminal" width="25px" src="https://simpleicons.org/icons/powershell.svg" />
 
 <br><br>
 
