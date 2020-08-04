@@ -52,7 +52,7 @@
 
 <img align="left" alt="After Effects" width="25px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />
 
-<img align="left" alt="Terminal" width="25px" src="https://simpleicons.org/icons/powershell.svg" />
+<img align="left" alt="Terminal" title="Terminal, not shell" width="25px" src="https://simpleicons.org/icons/powershell.svg" />
 
 <br><br>
 
