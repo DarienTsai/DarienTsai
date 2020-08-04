@@ -29,7 +29,7 @@
 
 <img align="left" alt="Git" width="25px" src="https://simpleicons.org/icons/git.svg" />
 
-<br>
+<br><br>
 
 ### I've done things with:
 
@@ -49,7 +49,7 @@
 
 <img align="left" alt="After Effects" width="25px" src="https://simpleicons.org/icons/adobeaftereffects.svg" />
 
-<br>
+<br><br>
 
 ### Connect with me:
 
@@ -59,8 +59,9 @@
 
 [<img align="left" alt="Gmail" width="25px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
+<br><br>
 
-<img align="center" alt="fun image" width="100px" src="https://doctorjhwatson.files.wordpress.com/2016/01/furious-typing.gif">
+<img align="center" alt="fun image" width="450px" src="https://doctorjhwatson.files.wordpress.com/2016/01/furious-typing.gif">
 
 <!-- Just for reference -->
 [website]: tbd
