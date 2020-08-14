@@ -38,6 +38,8 @@
 
 [<img align="left" alt="MySQL" width="25px" title="MySQL" src="https://simpleicons.org/icons/mysql.svg" />][github]
 
+[<img align="left" alt="Heroku" width="25px" title="Heroku" src="https://simpleicons.org/icons/heroku.svg" />][github]
+
 [<img align="left" alt="python" width="25px" title="python" src="https://simpleicons.org/icons/python.svg" />][github]
 
 [<img align="left" alt="C++" width="25px" title="C++" src="https://simpleicons.org/icons/cplusplus.svg" />][github]
