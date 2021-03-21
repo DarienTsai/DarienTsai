@@ -12,7 +12,7 @@
 
 ### I usually work with:
 
-[<img align="left" alt="Visual Studio Code" width="25px" title="Visual Studio Code" style="filter: brightness(2);" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
+[<img align="left" alt="Visual Studio Code" width="25px" title="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
 [<img align="left" alt="NodeJS" width="25px" title="NodeJS" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
 
