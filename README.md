@@ -12,27 +12,25 @@
 
 ### I usually work with:
 
-```diff
-! [<img align="left" alt="Visual Studio Code" width="25px" title="Visual Studio Code" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
+[<img align="left" alt="Visual Studio Code" width="25px" title="Visual Studio Code" style="filter: brightness(2);" src="https://simpleicons.org/icons/visualstudiocode.svg" />][github]
 
-! [<img align="left" alt="NodeJS" width="25px" title="NodeJS" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
+[<img align="left" alt="NodeJS" width="25px" title="NodeJS" src="https://simpleicons.org/icons/node-dot-js.svg" />][github]
 
-! [<img align="left" alt="JavaScript" width="25px" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />][github]
+[<img align="left" alt="JavaScript" width="25px" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />][github]
 
-! [<img align="left" alt="React" width="25px" title="React" src="https://simpleicons.org/icons/react.svg" />][github]
+[<img align="left" alt="React" width="25px" title="React" src="https://simpleicons.org/icons/react.svg" />][github]
 
-! [<img align="left" alt="Redux" width="25px" title="Redux" src="https://simpleicons.org/icons/redux.svg" />][github]
+[<img align="left" alt="Redux" width="25px" title="Redux" src="https://simpleicons.org/icons/redux.svg" />][github]
 
-! [<img align="left" alt="Sass" width="25px" title="Sass" src="https://simpleicons.org/icons/sass.svg" />][github]
+[<img align="left" alt="Sass" width="25px" title="Sass" src="https://simpleicons.org/icons/sass.svg" />][github]
 
-! [<img align="left" alt="HTML" width="25px" title="HTML" src="https://simpleicons.org/icons/html5.svg" />][github]
+[<img align="left" alt="HTML" width="25px" title="HTML" src="https://simpleicons.org/icons/html5.svg" />][github]
 
-! [<img align="left" alt="CSS" width="25px" title="CSS" src="https://simpleicons.org/icons/css3.svg" />][github]
+[<img align="left" alt="CSS" width="25px" title="CSS" src="https://simpleicons.org/icons/css3.svg" />][github]
 
-! [<img align="left" alt="Git" width="25px" title="Git" src="https://simpleicons.org/icons/git.svg" />][github]
+[<img align="left" alt="Git" width="25px" title="Git" src="https://simpleicons.org/icons/git.svg" />][github]
 
-! [<img align="left" alt="zoom" width="25px" title="lol" src="https://simpleicons.org/icons/zoom.svg" />][github]
-```
+[<img align="left" alt="zoom" width="25px" title="lol" src="https://simpleicons.org/icons/zoom.svg" />][github]
 
 <br><br>
 
